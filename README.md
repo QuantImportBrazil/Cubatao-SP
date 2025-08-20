@@ -21,14 +21,14 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Cubatão
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 08
+- Mês previsto: 11
 
 
 Fator Influenciador: Comex
-- Unidade Federativa: MG
-- Grupo de Produto (SH2): Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais-23 
-- Mês: 9
-- Unidade: price_mun_lag12
+- Unidade Federativa: SP
+- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
+- Mês: 3
+- Unidade: kt_lag13
 
 
 
