@@ -24,7 +24,7 @@ Previsão Influenciada:
 - Mês previsto: 11
 
 
-Fator Influenciador: Comex
+Fator Influenciador: Quantidade em Comex
 - Unidade Federativa: SP
 - Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
 - Mês: 3
