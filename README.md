@@ -36,6 +36,27 @@ Fator Influenciador: Quantidade em Comex
 
 
 
+![Gráfico de Previsão](31023000.png)
+Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
+Previsão Influenciada:
+- Município: Cubatão
+- Produto (NCM): Nitrato de amônio, mesmo em solução aquosa-31023000 
+- Mês previsto: 11
+
+
+Fator Influenciador: Quantidade em Comex
+- Unidade Federativa: RS
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Mês: 3
+- Unidade: kt_lag24
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31042090.png)
 Fator de Influência em Destaque:
 Previsões emitidas no mês 8.
